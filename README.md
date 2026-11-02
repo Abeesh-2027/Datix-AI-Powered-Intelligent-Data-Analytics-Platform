@@ -596,19 +596,19 @@ Free hosting services may sleep after periods of inactivity. The first request a
 ## Application Screenshots
 
 ### Dashboard
-![](screenshots/https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/dashboard.png)
+![](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/dashboard.png)
 
 ### Data Cleaning
-![]([screenshots/](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/data-cleaning.png)
+![](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/data-cleaning.png)
 
 ### Data Visualization
-![]([screenshots/](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/visualization.png)
+![](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/visualization.png)
 
 ### Statistical Analysis
-![]([screenshots/](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/statistical-analysis.png)
+![](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/statistical-analysis.png)
 
 ### AI Data Assistant
-![]([screenshots/](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/ai-assistant.png)
+![](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/ai-assistant.png)
 
 
 
