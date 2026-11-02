@@ -593,6 +593,26 @@ Free hosting services may sleep after periods of inactivity. The first request a
 - Be careful when uploading sensitive datasets.
 - Secure publicly deployed instances before using them with confidential information.
 
+## Application Screenshots
+
+### Dashboard
+![](screenshots/dashboard.png)
+
+### Data Cleaning
+![](screenshots/data-cleaning.png)
+
+### Data Visualization
+![](screenshots/visualization.png)
+
+### Statistical Analysis
+![](screenshots/statistical-analysis.png)
+
+### AI Data Assistant
+![](screenshots/ai-assistant.png)
+
+### Advanced Filtering
+![](screenshots/advanced-filtering.png)
+
 ## 14. Future Improvements
 
 Potential enhancements for future versions include:
