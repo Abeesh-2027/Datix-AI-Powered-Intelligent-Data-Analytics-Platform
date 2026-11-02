@@ -596,22 +596,21 @@ Free hosting services may sleep after periods of inactivity. The first request a
 ## Application Screenshots
 
 ### Dashboard
-![](screenshots/dashboard.png)
+![](screenshots/https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/dashboard.png)
 
 ### Data Cleaning
-![](screenshots/data-cleaning.png)
+![]([screenshots/](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/data-cleaning.png)
 
 ### Data Visualization
-![](screenshots/visualization.png)
+![]([screenshots/](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/visualization.png)
 
 ### Statistical Analysis
-![](screenshots/statistical-analysis.png)
+![]([screenshots/](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/statistical-analysis.png)
 
 ### AI Data Assistant
-![](screenshots/ai-assistant.png)
+![]([screenshots/](https://github.com/Abeesh-2027/Datix-AI-Powered-Intelligent-Data-Analytics-Platform/blob/518a0b73e7cb441e75e00cdee4a494163897b9a9/ai-assistant.png)
 
-### Advanced Filtering
-![](screenshots/advanced-filtering.png)
+
 
 ## 14. Future Improvements
 
